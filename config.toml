@@ -1,0 +1,8 @@
+baseurl = "https://Ippokratis.github.io/bookshelf/"
+title = "Hugo Site is pain"
+languageCode = "en-us"
+
+
+[Params]
+Author = "Ippokatis Bournellis"
+disqusShortname = "ippocardio"
