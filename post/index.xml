@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Site is pain </title>
+    <link>https://Ippokratis.github.io/bookshelf/post/index.xml</link>
+    <language>en-us</language>
+    <author>Ippokatis Bournellis</author>
+    <rights>(C) 2016</rights>
+    <updated>2016-11-18 23:50:51 &#43;0200 EET</updated>
+
+    
+      
+        <item>
+          <title>new</title>
+          <link>https://ippokratis.github.io/bookshelf/post/new/</link>
+          <pubDate>Fri, 18 Nov 2016 23:50:51 EET</pubDate>
+          <author>Ippokatis Bournellis</author>
+          <guid>https://ippokratis.github.io/bookshelf/post/new/</guid>
+          <description>&lt;p&gt;Sometimes building a new site can be fun. Not today&lt;/p&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
